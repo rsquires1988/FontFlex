@@ -1,0 +1,8 @@
+## Interface: 11404
+## Author: Ryan Squires
+## Version: 0.1
+## Title: |cff1784d1ElvUI|r |cff00b3ffFontFlex|r
+## Notes: ElvUI Plugin Framework.
+## RequiredDeps: ElvUI
+
+ElvUI_FontFlex.lua
