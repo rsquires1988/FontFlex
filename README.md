@@ -3,8 +3,8 @@ An ElvUI plugin for granular control over normally global Blizzard fonts in Worl
 
 ## Ver. 0.1
 ### Dependencies
-ElvUI
-LibSharedMedia-3.0 (Should be included with ElvUI)
+* ElvUI
+* LibSharedMedia-3.0 (Should be included with ElvUI)
 
 ### Installation
 Install by placing a folder named ElvUI_FontFlex to your World of Warcraft/\_\<version>_/Interface/Addons/ directory which contains both *ElvUI_FontFlex.lua* and *ElvUI_FontFlex.toc*.
