@@ -9,7 +9,7 @@ An ElvUI plugin for granular control over normally global Blizzard fonts in Worl
 ### Installation
 Install by placing a folder named ElvUI_FontFlex in your World of Warcraft/\_\<version>_/Interface/Addons/ directory which contains both *ElvUI_FontFlex.lua* and *ElvUI_FontFlex.toc*.
 
-In-Game, open ElvUI's settings pannel, go to General > Media and disable the "Replace Blizzard Fonts" checkbox. Addon **WILL NOT WORK** currently without disabling this setting! See Issue #1 for more info.
+In-Game, open ElvUI's settings pannel, go to General > Media and disable the "Replace Blizzard Fonts" checkbox. Addon **WILL NOT WORK** currently without disabling this setting! See [Issue #1](https://github.com/rsquires1988/FontFlex/issues/1) for more info.
 
 ### Usage
 The plugin will appear at the bottom-left of the standard ElvUI settings panel in a tab named "FontFlex".
